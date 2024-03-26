@@ -6,7 +6,7 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 
 ## Experiments
 - **Shear Wave Decay**:Investigates the decay of sinusoidally initialized density and velocity fields over time, exploring kinematic viscosity's dependence on relaxation factors.
-
+![Shear wave decay - Density flow](Animations/density_flow.gif)
 
 - **Couette Flow**: Models fluid flow in a channel with a moving top wall, comparing the simulation results to analytical expectations.
 
