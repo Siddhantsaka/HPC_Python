@@ -26,4 +26,4 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 3. In Simulations folder Run the required simulation code file.
 
 ## License
-MIT License
+GNU General Public License v3.0
