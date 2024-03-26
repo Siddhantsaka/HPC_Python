@@ -10,10 +10,15 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 
 - **Couette Flow**: Models fluid flow in a channel with a moving top wall, comparing the simulation results to analytical expectations.
 
+ ![Couette floe](graphs/couette/CouetteFlow4000.png)
+
 - **Poiseuille Flow**: Simulates fluid flow driven by a pressure gradient, with results validated against analytical solutions.
+ ![Couette floe](graphs/poiseuli/PouisuelleFlow.png)
+
 
 
 - **Sliding Lid**: A variant of Couette flow with specific boundary conditions, including a moving top wall and periodic bounce-back at the sides.
+  ![Sliding_lid](Animations/sliding_lid_animation.gif)
 
 ## Structure
 - `Simulations/`: Consists of standalone codes for simulation.
