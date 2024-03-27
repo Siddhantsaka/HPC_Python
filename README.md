@@ -2,7 +2,7 @@
 # Lattice Boltzmann Simulations
 
 ## Overview
-This repository houses the Lattice Boltzmann Simulation project, an educational endeavor stemming from the "High Performance Computing: Fluid Mechanics with Python" course at the University of Freiburg. It leverages Python, specifically Numpy and Matplotlib, to model and analyze fluid dynamics through various simulation experiments.
+This repository houses the Lattice Boltzmann Simulation project, an educational endeavour stemming from the "High Performance Computing: Fluid Mechanics with Python" course at the University of Freiburg. It leverages Python, specifically Numpy and Matplotlib, to model and analyze fluid dynamics through various simulation experiments.
 
 ## Experiments
 - **Shear Wave Decay**:Investigates the decay of sinusoidally initialized density and velocity fields over time, exploring kinematic viscosity's dependence on relaxation factors.
@@ -18,7 +18,7 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 
 
 - **Sliding Lid**: A variant of Couette flow with specific boundary conditions, including a moving top wall and periodic bounce-back at the sides.
-![Sliding Lid](Animations/SlidingLid.mp4)
+![Sliding Lid](Animations/SlidingLid.gif)
 
 ## Structure
 - `Simulations/`: Consists of standalone codes for simulation.
@@ -28,7 +28,7 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 ## Getting Started
 1. Install Python, Numpy, Matplotlib.
 2. Clone this repo.
-3. In Simulations folder Run the required simulation code file.
+3. In the Simulations folder Run the required simulation code file.
 
 ## License
 GNU General Public License v3.0
