@@ -18,7 +18,7 @@ This repository houses the Lattice Boltzmann Simulation project, an educational 
 
 
 - **Sliding Lid**: A variant of Couette flow with specific boundary conditions, including a moving top wall and periodic bounce-back at the sides.
-  ![Sliding_lid](Animations/sliding_lid_animation.gif)
+
 
 ## Structure
 - `Simulations/`: Consists of standalone codes for simulation.
